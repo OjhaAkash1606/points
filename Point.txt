@@ -1,0 +1,3 @@
+nslookup www.google.com(domain name)
+
+react-loading-skeleton -- for react loading 

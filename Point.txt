@@ -1,3 +1,5 @@
 nslookup www.google.com(domain name)
 
 react-loading-skeleton -- for react loading 
+
+step wizard  -- for pre and back button
